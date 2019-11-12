@@ -1,1 +1,0 @@
-This is seconnd file in GIT repo
