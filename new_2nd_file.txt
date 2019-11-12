@@ -1,4 +1,0 @@
-This is also a test file
-This is also a test file1
-This is also a test file2
-This is also a test file3
